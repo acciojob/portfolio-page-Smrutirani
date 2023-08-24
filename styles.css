@@ -10,3 +10,9 @@ header{
 	text-align:center;
 	padding:0px;
 }
+#skill:not(ul, li){
+	text-decoration:underline;
+}
+/* #project{
+	text-decoration:underline;
+} */
