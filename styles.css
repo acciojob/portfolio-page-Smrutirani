@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+body{
+	width:100%;
+}
+img{
+	width:100px;	
+}
+header{
+	text-align:center;
+	padding:0px;
+}
